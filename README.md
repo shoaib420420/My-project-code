@@ -1,3 +1,3 @@
 # My-project-code
 Own idea code implementation 
-autho -Muhammad-Shoaib
+Author:   __Muhammad-Shoaib
