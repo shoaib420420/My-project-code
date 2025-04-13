@@ -1,2 +1,2 @@
 # My-project-code
-Own idea implementation
+Own idea code implementation 
